@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Moonlight Banquet",
+    "artist": "a_hisa",
+    "length": 163,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Flashdance",
+    "artist": "litmus*",
+    "length": 120,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "INFiNiTE ENERZY -Overdoze-",
+    "artist": "Reku Mochizuki",
+    "length": 112,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": 10
+  },
+  {
+    "title_en": "One Way Street",
+    "artist": "siqlo",
+    "length": 140,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "This Club is Not 4 U",
+    "artist": "EmoCosine",
+    "length": 132,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "ULTRA MEGA HAPPY PARTY!!!",
+    "artist": "Hino Isuka",
+    "length": 131,
+    "bpm_min": 205,
+    "bpm_max": 205,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  }
+]

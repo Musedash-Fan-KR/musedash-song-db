@@ -1,46 +1,46 @@
 [
   {
-    "title": "People People",
+    "title_en": "People People",
     "artist": "Neko Hacker feat. Nanahira",
     "length": 150,
     "bpm_min": 230,
     "bpm_max": 230,
-    "level_easy": 7,
-    "level_hard": 9,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": 11
   },
   {
-    "title": "Endless Error Loop",
+    "title_en": "Endless Error Loop",
     "artist": "Neko Hacker feat. Nanahira",
     "length": 140,
     "bpm_min": 145,
     "bpm_max": 145,
-    "level_easy": 7,
-    "level_hard": 9,
-    "level_master": null,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
     "level_supreme": null
   },
   {
-    "title": "Forbidden Pizza!",
+    "title_en": "Forbidden Pizza!",
     "artist": "Camellia feat.Nanahira",
     "length": 146,
     "bpm_min": 134,
     "bpm_max": 134,
-    "level_easy": 7,
-    "level_hard": 9,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
     "level_supreme": null
   },
   {
-    "title": "ボーカルに無茶させんな",
+    "title_en": "ボーカルに無茶させんな",
     "artist": "t+pazolite feat. Nanahira",
     "length": 144,
     "bpm_min": 120,
     "bpm_max": 120,
-    "level_easy": 8,
-    "level_hard": 9,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 9,
     "level_supreme": null
   }
 ]

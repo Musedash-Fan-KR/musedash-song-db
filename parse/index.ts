@@ -4,7 +4,7 @@ import path from 'node:path';
 
 const dom = parse(html as unknown as string);
 const tables = dom.querySelectorAll('.wikitable');
-for(const table of tables){
+for (const table of tables) {
     const data = parseTable(table);
     await Bun.write(
         path.join(import.meta.dir, 'datas', `${data.pack?.replace(/[<>:"/\\|?*\x00-\x1F]/g, "")}.json`),
@@ -12,13 +12,19 @@ for(const table of tables){
     )
 }
 
-function parseTable(table: HTMLElement){
+function parseTable(table: HTMLElement) {
     const pack = table.querySelector('caption')?.textContent?.trim();
+    const trs = table.querySelectorAll('tbody > tr')
 
-    const songs = Array.from(table.querySelectorAll('tr')).map((e, i) => {
-        if(i === 0 || i === 1) return;
+    const ths = trs[0].querySelectorAll('th');
+    const difficultyAlign = ths[5].textContent.trim().replaceAll('\r\n', ' ').toLowerCase().includes('level') ? 1 : 0;
+
+    const songs = Array.from(trs).map((e, i) => {
+        if (i === 0 || i === 1) return;
         const tds = e.querySelectorAll('td');
         const [bpm_min, bpm_max] = parseBPM(tds[4].textContent);
+
+
         return {
             //img: tds[0].querySelector('img')?.getAttribute('src'),
             title_en: tds[1].textContent.trim().replaceAll('\r\n', ' '),
@@ -26,10 +32,10 @@ function parseTable(table: HTMLElement){
             length: parseTime(tds[3].textContent),
             bpm_min,
             bpm_max,
-            level_easy: Number(tds[6]?.textContent),
-            level_hard: Number(tds[7]?.textContent),
-            level_master: Number(tds[8]?.textContent),
-            level_supreme: Number(tds[9]?.textContent)
+            level_easy: Number(tds[5 + difficultyAlign]?.textContent),
+            level_hard: Number(tds[6 + difficultyAlign]?.textContent),
+            level_master: Number(tds[7 + difficultyAlign]?.textContent),
+            level_supreme: Number(tds[8 + difficultyAlign]?.textContent)
         }
     }).filter(e => e);
 
@@ -39,8 +45,8 @@ function parseTable(table: HTMLElement){
     }
 }
 
-function parseTime(time: string){
-    if(time.includes(':')){
+function parseTime(time: string) {
+    if (time.includes(':')) {
         const s = time.split(':');
         return Number(s[0]) * 60 + Number(s[1]);
     } else {
@@ -48,8 +54,8 @@ function parseTime(time: string){
     }
 }
 
-function parseBPM(bpm: string){
-    if(bpm.includes('-')){
+function parseBPM(bpm: string) {
+    if (bpm.includes('-')) {
         const s = bpm.split('-');
         return [Number(s[0]), Number(s[1])]
     } else {

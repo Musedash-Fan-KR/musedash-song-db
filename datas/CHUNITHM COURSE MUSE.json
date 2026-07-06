@@ -1,68 +1,68 @@
 [
   {
-    "title": "Ray Tuning",
+    "title_en": "Ray Tuning",
     "artist": "NayutalieN",
     "length": 141,
     "bpm_min": 190,
     "bpm_max": 190,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
     "level_supreme": null
   },
   {
-    "title": "World Vanquisher",
+    "title_en": "World Vanquisher",
     "artist": "void (Mournfinale)",
     "length": 158,
     "bpm_min": 170,
     "bpm_max": 170,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
   },
   {
-    "title": "月詠に鳴る",
+    "title_en": "月詠に鳴る",
     "artist": "Feryquitous feat.藍月なくる",
     "length": 131,
     "bpm_min": 180,
     "bpm_max": 180,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
     "level_supreme": null
   },
   {
-    "title": "The wheel to the right",
+    "title_en": "The wheel to the right",
     "artist": "Sampling Masters MEGA",
     "length": 143,
     "bpm_min": 200,
     "bpm_max": 200,
-    "level_easy": 7,
-    "level_hard": 9,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": 11
   },
   {
-    "title": "Climax",
+    "title_en": "Climax",
     "artist": "USAO",
     "length": 152,
     "bpm_min": 190,
     "bpm_max": 190,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 4,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
   },
   {
-    "title": "Spider's Thread",
+    "title_en": "Spider's Thread",
     "artist": "kikuo×cosMo@Bousou-P feat.kagenui hana",
     "length": 137,
     "bpm_min": 180,
     "bpm_max": 180,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": 12,
-    "level_supreme": null
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 12
   }
 ]

@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "The Last Page",
+    "artist": "ARForest",
+    "length": 129,
+    "bpm_min": 195,
+    "bpm_max": 195,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "IKAROS",
+    "artist": "ETIA feat.Jenga",
+    "length": 118,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Tsukuyomi",
+    "artist": "Halv",
+    "length": 133,
+    "bpm_min": 188,
+    "bpm_max": 188,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Future Stream",
+    "artist": "Qutabire",
+    "length": 141,
+    "bpm_min": 177,
+    "bpm_max": 177,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "FULi AUTO SHOOTER",
+    "artist": "MYUKKE.",
+    "length": 119,
+    "bpm_min": 145,
+    "bpm_max": 145,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "GOODFORTUNE",
+    "artist": "EBIMAYO",
+    "length": 130,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  }
+]

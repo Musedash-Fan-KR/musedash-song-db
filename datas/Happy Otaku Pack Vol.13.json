@@ -1,0 +1,35 @@
+[
+  {
+    "title_en": "Party in the HOLLOWood (feat. ななひら)",
+    "artist": "t+pazolite",
+    "length": 159,
+    "bpm_min": 178,
+    "bpm_max": 178,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "嘤嘤大作战",
+    "artist": "iKz feat.祖娅纳惜",
+    "length": 123,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Howlin' Pumpkin",
+    "artist": "brz1128",
+    "length": 143,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  }
+]

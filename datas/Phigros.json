@@ -1,35 +1,35 @@
 [
   {
-    "title": "NO ONE YES MAN",
+    "title_en": "NO ONE YES MAN",
     "artist": "MYUKKE.",
     "length": 120,
     "bpm_min": 170,
     "bpm_max": 170,
-    "level_easy": 7,
-    "level_hard": 9,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
     "level_supreme": null
   },
   {
-    "title": "雪降り、メリクリ (Snowfall, Merry Christmas) (MD edit)",
+    "title_en": "雪降り、メリクリ (Snowfall, Merry Christmas) (MD edit)",
     "artist": "A-39",
     "length": 156,
     "bpm_min": 180,
     "bpm_max": 180,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
     "level_supreme": null
   },
   {
-    "title": "Igallta",
+    "title_en": "Igallta",
     "artist": "Se-U-Ra",
     "length": 117,
     "bpm_min": 230,
     "bpm_max": 230,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Out of Sense",
+    "title_en": "Out of Sense",
     "artist": "Sound Souler",
     "length": 111,
     "bpm_min": 158,
@@ -11,7 +11,7 @@
     "level_supreme": null
   },
   {
-    "title": "My Life Is For You",
+    "title_en": "My Life Is For You",
     "artist": "HyuN feat.Yu-A",
     "length": 106,
     "bpm_min": 175,
@@ -22,7 +22,7 @@
     "level_supreme": null
   },
   {
-    "title": "Etude -Sunset-",
+    "title_en": "Etude -Sunset-",
     "artist": "Polymath9",
     "length": 121,
     "bpm_min": 159,
@@ -33,7 +33,7 @@
     "level_supreme": null
   },
   {
-    "title": "Goodbye Boss",
+    "title_en": "Goodbye Boss",
     "artist": "KillerBlood",
     "length": 107,
     "bpm_min": 166,
@@ -44,7 +44,7 @@
     "level_supreme": null
   },
   {
-    "title": "Stargazer",
+    "title_en": "Stargazer",
     "artist": "a_hisa",
     "length": 125,
     "bpm_min": 150,
@@ -55,7 +55,7 @@
     "level_supreme": 9
   },
   {
-    "title": "Lys Tourbillon",
+    "title_en": "Lys Tourbillon",
     "artist": "Chicala Lpis",
     "length": 112,
     "bpm_min": 160,

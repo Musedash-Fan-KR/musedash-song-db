@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Leave it Alone",
+    "artist": "a_hisa",
+    "length": 127,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Tsubasa no Oreta Tenshitachi no Requiem",
+    "artist": "Sakamiya feat.Maeno",
+    "length": 115,
+    "bpm_min": 184,
+    "bpm_max": 184,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Chronomia",
+    "artist": "Lime",
+    "length": 139,
+    "bpm_min": 227,
+    "bpm_max": 227,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Dandelion's Daydream",
+    "artist": "VeetaCrush",
+    "length": 154,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Lorikeet ~Flat design~",
+    "artist": "Tedjimo Yomigy",
+    "length": 156,
+    "bpm_min": 182,
+    "bpm_max": 182,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "GOODRAGE",
+    "artist": "EBIMAYO",
+    "length": 117,
+    "bpm_min": 222,
+    "bpm_max": 222,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

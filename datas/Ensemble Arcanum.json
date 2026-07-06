@@ -1,57 +1,57 @@
 [
   {
-    "title": "Gunners in the Rain",
+    "title_en": "Gunners in the Rain",
     "artist": "Mili",
     "length": 146,
     "bpm_min": 200,
     "bpm_max": 200,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
     "level_supreme": null
   },
   {
-    "title": "Halzion",
+    "title_en": "Halzion",
     "artist": "H△G",
     "length": 136,
     "bpm_min": 135,
     "bpm_max": 135,
-    "level_easy": 5,
-    "level_hard": 8,
-    "level_master": null,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
     "level_supreme": null
   },
   {
-    "title": "SHOWTIME!!",
+    "title_en": "SHOWTIME!!",
     "artist": "Aethoro feat. Traceco",
     "length": 137,
     "bpm_min": 220,
     "bpm_max": 220,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
     "level_supreme": null
   },
   {
-    "title": "Achromic Riddle",
+    "title_en": "Achromic Riddle",
     "artist": "Nego_tiator",
     "length": 126,
     "bpm_min": 175,
     "bpm_max": 175,
-    "level_easy": 8,
-    "level_hard": 10,
-    "level_master": 11,
-    "level_supreme": null
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
   },
   {
-    "title": "karanosu",
+    "title_en": "karanosu",
     "artist": "ユアミトス",
     "length": 177,
     "bpm_min": 207,
     "bpm_max": 207,
-    "level_easy": 6,
-    "level_hard": 8,
-    "level_master": null,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
     "level_supreme": null
   }
 ]

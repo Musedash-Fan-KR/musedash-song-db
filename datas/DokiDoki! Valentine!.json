@@ -1,35 +1,35 @@
 [
   {
-    "title": "Pray a LOVE",
+    "title_en": "Pray a LOVE",
     "artist": "BOOGEY VOXX",
     "length": 143,
     "bpm_min": 123,
     "bpm_max": 123,
-    "level_easy": 5,
-    "level_hard": 8,
-    "level_master": null,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
     "level_supreme": null
   },
   {
-    "title": "恋愛回避依存症",
+    "title_en": "恋愛回避依存症",
     "artist": "Matthiola Records",
     "length": 145,
     "bpm_min": 132,
     "bpm_max": 132,
-    "level_easy": 5,
-    "level_hard": 7,
-    "level_master": null,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 7,
     "level_supreme": null
   },
   {
-    "title": "Daisuki Dayo feat.Wotoha",
+    "title_en": "Daisuki Dayo feat.Wotoha",
     "artist": "Neko Hacker",
     "length": 125,
     "bpm_min": 170,
     "bpm_max": 170,
-    "level_easy": 7,
-    "level_hard": 10,
-    "level_master": null,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
     "level_supreme": null
   }
 ]
