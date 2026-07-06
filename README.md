@@ -6,7 +6,7 @@
 - title: 곡 제목 (일본어 기준)
 - title_ko: 곡 제목, 한국어 기준, `title`과 같으면 비워둠
 - title_en: 곡 제목, 영어 기준, `title`과 같으면 비워둠
-- composer: 작곡가, 일본어 기준, 없을 시 비워둠
+- artist: 작곡가, 일본어 기준, 없을 시 비워둠
 - level_easy: 초보 코스 레벨 (없으면 비워둠)
 - level_hard: 어려움 코스 레벨 (없으면 비워둠)
 - level_master: 마스터 코스 레벨 (없으면 비워둠)
