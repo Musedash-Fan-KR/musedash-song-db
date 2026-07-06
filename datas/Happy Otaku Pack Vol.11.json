@@ -1,0 +1,68 @@
+[
+  {
+    "title": "The 90's Decision",
+    "artist": "MYUKKE.",
+    "length": 128,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Medusa",
+    "artist": "HiTECH NINJA",
+    "length": 119,
+    "bpm_min": 165,
+    "bpm_max": 165,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title": "Final Step!",
+    "artist": "Lime",
+    "length": 133,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "MAGENTA POTION",
+    "artist": "EmoCosine",
+    "length": 142,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Cross†Ray (feat.月下Lia)",
+    "artist": "HyuN",
+    "length": 110,
+    "bpm_min": 176,
+    "bpm_max": 176,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Square Lake",
+    "artist": "Mitsuki",
+    "length": 116,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 8,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

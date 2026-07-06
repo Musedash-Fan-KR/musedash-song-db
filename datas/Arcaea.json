@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Haze of Autumn",
+    "artist": "karatoPαnchii feat.はるの",
+    "length": 150,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "GIMME DA BLOOD",
+    "artist": "C-Show",
+    "length": 129,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Libertas",
+    "artist": "Zekk",
+    "length": 126,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Cyaegha",
+    "artist": "USAO",
+    "length": 134,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

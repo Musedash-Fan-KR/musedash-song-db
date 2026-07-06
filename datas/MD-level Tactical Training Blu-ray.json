@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Unwelcome School",
+    "artist": "Mitsukiyo",
+    "length": 119,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Usagi Flap",
+    "artist": "Nor",
+    "length": 123,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "RE Aoharu",
+    "artist": "Nor",
+    "length": 133,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title": "Operation☆DOTABATA!",
+    "artist": "Mitsukiyo",
+    "length": 113,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

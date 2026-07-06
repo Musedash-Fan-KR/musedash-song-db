@@ -1,0 +1,46 @@
+[
+  {
+    "title": "SUPERHERO",
+    "artist": "YUC'e",
+    "length": 125,
+    "bpm_min": 125,
+    "bpm_max": 125,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Highway_Summer",
+    "artist": "Nyarons",
+    "length": 124,
+    "bpm_min": 144,
+    "bpm_max": 144,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Mx. Black Box",
+    "artist": "PHAZE",
+    "length": 142,
+    "bpm_min": 117,
+    "bpm_max": 117,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Sweet Encounter",
+    "artist": "3R2",
+    "length": 121,
+    "bpm_min": 158,
+    "bpm_max": 158,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

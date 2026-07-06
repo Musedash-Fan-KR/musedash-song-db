@@ -1,0 +1,68 @@
+[
+  {
+    "title": "雨后甜点",
+    "artist": "Sugar & Co.（ANK feat.kumako）",
+    "length": 150,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "告白应援方程式",
+    "artist": "S9ryne Feat.祈Inory",
+    "length": 129,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Omatsuri feat.兔子ST",
+    "artist": "Nekock•LK",
+    "length": 134,
+    "bpm_min": 145,
+    "bpm_max": 145,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "FUTUREPOP",
+    "artist": "Sugar & Co.（ANK feat.kumako）",
+    "length": 154,
+    "bpm_min": 124,
+    "bpm_max": 124,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "The Breeze",
+    "artist": "sctl feat.Syepias",
+    "length": 86,
+    "bpm_min": 98,
+    "bpm_max": 98,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "I LOVE LETTUCE FRIED RICE!!",
+    "artist": "Moroboshi Nana feat.Katou Haruka & Hirose Yuuki",
+    "length": 113,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

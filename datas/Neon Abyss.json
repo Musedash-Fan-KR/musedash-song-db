@@ -1,0 +1,46 @@
+[
+  {
+    "title": "BrainDance",
+    "artist": "Neon Abyss：Infinity",
+    "length": 99,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "My Focus!",
+    "artist": "EmoCosine",
+    "length": 124,
+    "bpm_min": 143,
+    "bpm_max": 143,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "ABABABA BURST",
+    "artist": "MYUKKE.",
+    "length": 141,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "ULTRA HIGHER",
+    "artist": "BlackY",
+    "length": 124,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

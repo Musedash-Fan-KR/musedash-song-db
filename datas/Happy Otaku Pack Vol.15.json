@@ -1,0 +1,68 @@
+[
+  {
+    "title": "On And On!!",
+    "artist": "ETIA. feat. Jenga",
+    "length": 117,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Trip!",
+    "artist": "FOIV feat.Tomin Yukino",
+    "length": 143,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Hoshi no otoshimono",
+    "artist": "AAAA",
+    "length": 130,
+    "bpm_min": 205,
+    "bpm_max": 205,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Plucky Race",
+    "artist": "Yomii",
+    "length": 125,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Fantasia Sonata Destiny",
+    "artist": "PYKAMIA",
+    "length": 158,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Run through",
+    "artist": "Ryo Arue",
+    "length": 148,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

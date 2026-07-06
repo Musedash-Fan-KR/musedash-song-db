@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Bang!!",
+    "artist": "BOOGEY VOXX",
+    "length": 133,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Paradise Ⅱ",
+    "artist": "Sound Souler",
+    "length": 118,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Symbol",
+    "artist": "Silaver",
+    "length": 136,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Nekojarashi",
+    "artist": "EmoCosine",
+    "length": 127,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "A Philosophical Wanderer",
+    "artist": "tezuka x Yunosuke",
+    "length": 144,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 6,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Isouten",
+    "artist": "Zris",
+    "length": 106,
+    "bpm_min": 191,
+    "bpm_max": 191,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

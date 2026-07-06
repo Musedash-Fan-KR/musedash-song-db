@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Oriens",
+    "artist": "ginkiha",
+    "length": 130,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "PUPA",
+    "artist": "Morimori Atsushi",
+    "length": 122,
+    "bpm_min": 202,
+    "bpm_max": 202,
+    "level_easy": 8,
+    "level_hard": 11,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Luna Express 2032",
+    "artist": "Sakamiya feat.Mao Komiya",
+    "length": 115,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Ukiyoe Yokochou",
+    "artist": "Chaos City Niigata",
+    "length": 122,
+    "bpm_min": 192,
+    "bpm_max": 192,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Alice in Misanthrope",
+    "artist": "LeaF",
+    "length": 142,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "GOODMEN",
+    "artist": "EBIMAYO",
+    "length": 125,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

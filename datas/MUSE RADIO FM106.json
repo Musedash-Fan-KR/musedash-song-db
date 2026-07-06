@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Othello feat.Uiro",
+    "artist": "JAWZZ",
+    "length": 116,
+    "bpm_min": 138,
+    "bpm_max": 138,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Midnight Blue",
+    "artist": "HiRO.JP",
+    "length": 158,
+    "bpm_min": 90,
+    "bpm_max": 90,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "overwork feat.Woonoo",
+    "artist": "JAWZZ",
+    "length": 115,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "SUPER CITYLIGHTS",
+    "artist": "DISCO BROTHERS",
+    "length": 130,
+    "bpm_min": 132,
+    "bpm_max": 132,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

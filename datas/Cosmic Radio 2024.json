@@ -1,0 +1,68 @@
+[
+  {
+    "title": "LUNATiC CiRCUiT",
+    "artist": "YOFUKASHi Sound Team",
+    "length": 155,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 9,
+    "level_hard": 11,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Synthesis.",
+    "artist": "tn-shi",
+    "length": 128,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "COSMiC FANFARE!!!!",
+    "artist": "cosMo@Bousou-P",
+    "length": 134,
+    "bpm_min": 162,
+    "bpm_max": 162,
+    "level_easy": 9,
+    "level_hard": 11,
+    "level_master": 12,
+    "level_supreme": null
+  },
+  {
+    "title": "Sharp Bubbles",
+    "artist": "Gəyxe/HJLL",
+    "length": 150,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 9,
+    "level_hard": 11,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Replay",
+    "artist": "Nanatsukaze",
+    "length": 158,
+    "bpm_min": 145,
+    "bpm_max": 145,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Cosmic Dusty Girl",
+    "artist": "辻原一郎",
+    "length": 132,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

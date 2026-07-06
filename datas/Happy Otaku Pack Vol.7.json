@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Cotton Candy Wonderland",
+    "artist": "Endorfin.",
+    "length": 144,
+    "bpm_min": 156,
+    "bpm_max": 156,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Punai Punai Taiso",
+    "artist": "Rish feat.Choko",
+    "length": 108,
+    "bpm_min": 271,
+    "bpm_max": 271,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Fly↑High",
+    "artist": "P4koo(feat.rerone)",
+    "length": 108,
+    "bpm_min": 142,
+    "bpm_max": 142,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "prejudice",
+    "artist": "a_hisa",
+    "length": 139,
+    "bpm_min": 125,
+    "bpm_max": 125,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "The 89's Momentum",
+    "artist": "MYUKKE.",
+    "length": 133,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "energy night(DASH mix)",
+    "artist": "KAH",
+    "length": 135,
+    "bpm_min": 156,
+    "bpm_max": 156,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

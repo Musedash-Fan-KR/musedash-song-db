@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Altale",
+    "artist": "Sakuzyo",
+    "length": 146,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title": "Brain Power",
+    "artist": "NOMA",
+    "length": 104,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Berry Go!!",
+    "artist": "Freezer feat.Kiichigo",
+    "length": 111,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Sweet* Witch* Girl*",
+    "artist": "Morimori Atsushi vs. uma",
+    "length": 129,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "trippers feeling!",
+    "artist": "KAH",
+    "length": 135,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Lilith ambivalence lovers",
+    "artist": "ikaruga_nex",
+    "length": 148,
+    "bpm_min": 155.6,
+    "bpm_max": 155.6,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

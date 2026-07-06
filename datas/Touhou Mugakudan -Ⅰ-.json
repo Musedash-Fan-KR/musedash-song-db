@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Bad Apple!! feat. Nomico",
+    "artist": "Alstroemeria Records",
+    "length": 123,
+    "bpm_min": 138,
+    "bpm_max": 138,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title": "色は匂へど散りぬるを",
+    "artist": "幽閉サテライト",
+    "length": 145,
+    "bpm_min": 138,
+    "bpm_max": 138,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Cirno's Perfect Math Class",
+    "artist": "ARM + Yoshimi YOUNO (IOSYS) feat. miko",
+    "length": 127,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "緋色月下、狂咲ノ絶",
+    "artist": "EastNewSound",
+    "length": 141,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Flowery Moonlit Night",
+    "artist": "Yonder Voice",
+    "length": 136,
+    "bpm_min": 145,
+    "bpm_max": 145,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Unconscious Requiem",
+    "artist": "Shinra-Bansho",
+    "length": 115,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

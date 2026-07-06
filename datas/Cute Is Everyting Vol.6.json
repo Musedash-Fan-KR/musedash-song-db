@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Girly Cupid",
+    "artist": "PSYQUI (feat. Marpril)",
+    "length": 121,
+    "bpm_min": 133,
+    "bpm_max": 133,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "sheep in the light",
+    "artist": "Marpril",
+    "length": 104,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Breaker city",
+    "artist": "HAMA (feat. Marpril)",
+    "length": 114,
+    "bpm_min": 118,
+    "bpm_max": 118,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "heterodoxy",
+    "artist": "memex",
+    "length": 137,
+    "bpm_min": 156,
+    "bpm_max": 156,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Computer Music Girl",
+    "artist": "memex",
+    "length": 147,
+    "bpm_min": 152,
+    "bpm_max": 152,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "焦点 (Jiāodiǎn/Focus)",
+    "artist": "ANK (feat.早木旋子/Zǎo mù xuànzǐ)",
+    "length": 160,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

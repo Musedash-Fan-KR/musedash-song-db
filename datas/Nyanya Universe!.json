@@ -1,0 +1,57 @@
+[
+  {
+    "title": "NyanCat",
+    "artist": "daniwell (feat. Momone Momo)",
+    "length": 115,
+    "bpm_min": 142,
+    "bpm_max": 142,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "PeroPero in the Universe",
+    "artist": "Rish feat.Choko",
+    "length": 132,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": null,
+    "level_hard": null,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "In-kya Yo-kya Onmyoji",
+    "artist": "Hige Driver",
+    "length": 110,
+    "bpm_min": 195,
+    "bpm_max": 195,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "KABOOOOOM!!!!",
+    "artist": "t+pazolite",
+    "length": 118,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Doppelganger",
+    "artist": "LeaF",
+    "length": 144,
+    "bpm_min": 280,
+    "bpm_max": 280,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 12,
+    "level_supreme": null
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Maharajah",
+    "artist": "Alice Schach and the Magic Orchestra",
+    "length": 94,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "keep on running",
+    "artist": "uma",
+    "length": 143,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Käfig",
+    "artist": "Chicala Lpis",
+    "length": 114,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "-+",
+    "artist": "daisan",
+    "length": 117,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Tenri Kaku Jou",
+    "artist": "a_hisa",
+    "length": 122,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Adjudicatorz-DanZai-",
+    "artist": "JurokuNeta.",
+    "length": 136,
+    "bpm_min": 191,
+    "bpm_max": 191,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  }
+]

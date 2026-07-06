@@ -1,0 +1,90 @@
+[
+  {
+    "title": "すとり～ま～FIRE!?!?",
+    "artist": "F Rabbeat (feat.マスタード)",
+    "length": 132,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Tanuki Step",
+    "artist": "Scheol X M2U",
+    "length": 136,
+    "bpm_min": 176,
+    "bpm_max": 176,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Space Stationery",
+    "artist": "ぱらどっと",
+    "length": 114,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Songs Are Judged 90% by Chorus feat. Mameko",
+    "artist": "Kijibato",
+    "length": 122,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Kawaiク華麗に宇宙怪盗",
+    "artist": "打打だいず Vs. Tanchiky",
+    "length": 149,
+    "bpm_min": 203,
+    "bpm_max": 203,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Night City Runway",
+    "artist": "KWANSAI Gakkyoku Hozen Kyokai feat. Yoshina Haramori",
+    "length": 134,
+    "bpm_min": 137,
+    "bpm_max": 137,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "Chaos Shotgun feat. ChumuNote",
+    "artist": "Twinfield",
+    "length": 132,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "mew mew magical summer",
+    "artist": "uynet",
+    "length": 122,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]
