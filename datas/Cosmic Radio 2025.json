@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "CHAOTiC BATTLE",
+    "artist": "YOFUKASHi Sound Team",
+    "length": 149,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "FATAL GAME",
+    "artist": "tug",
+    "length": 142,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Aria",
+    "artist": "Nanatsukaze",
+    "length": 149,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "+1(UNKNOWN)-NUMBER",
+    "artist": "(AQUASINE X MEMODEMO) ^ hackerling",
+    "length": 142,
+    "bpm_min": 145,
+    "bpm_max": 145,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "彼方へ、名もなき海辺より",
+    "artist": "打打だいず＆月乃",
+    "length": 167,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "REK421",
+    "artist": "ariiol",
+    "length": 142,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

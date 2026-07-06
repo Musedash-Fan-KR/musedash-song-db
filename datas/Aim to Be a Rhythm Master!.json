@@ -1,0 +1,79 @@
+[
+  {
+    "title_en": "Dreamy Day",
+    "artist": "M2U",
+    "length": 120,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Futropolis",
+    "artist": "Nauts",
+    "length": 147,
+    "bpm_min": 163,
+    "bpm_max": 163,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Quo Vadis",
+    "artist": "M2U",
+    "length": 141,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "REANIMATE",
+    "artist": "Warak",
+    "length": 148,
+    "bpm_min": 174,
+    "bpm_max": 174,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Ineffabilis",
+    "artist": "Gentlestick x M2U",
+    "length": 144,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 3,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "DaJiaHao",
+    "artist": "Memme",
+    "length": 125,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Echoes of SeraphiM",
+    "artist": "Remixed by S9ryne",
+    "length": 191,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  }
+]

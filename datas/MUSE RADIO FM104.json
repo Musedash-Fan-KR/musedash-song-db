@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Doki Doki Jump! (feat. ぷにぷに電機/Punipuni Denki)",
+    "artist": "Club2Tokyo",
+    "length": 126,
+    "bpm_min": 115,
+    "bpm_max": 115,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "100年モノのストリーマーズ・ハイ",
+    "artist": "D.watt feat. 紡音れい",
+    "length": 120,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Love Patrol",
+    "artist": "Sugar&Co.",
+    "length": 126,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Mahorova feat.omoto",
+    "artist": "JAWZZ",
+    "length": 134,
+    "bpm_min": 134,
+    "bpm_max": 134,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "夜の街",
+    "artist": "HiRO.JP",
+    "length": 131,
+    "bpm_min": 97,
+    "bpm_max": 97,
+    "level_easy": 1,
+    "level_hard": 4,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "INTERNET YAMERO（Aiobahn feat. KOTOKO）",
+    "artist": "From \"NEEDY STREAMER OVERLOAD\"",
+    "length": 242,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  }
+]

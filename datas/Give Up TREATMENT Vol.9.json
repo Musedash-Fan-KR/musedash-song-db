@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Legend of Eastern Rabbit -SKY DEFENDER-",
+    "artist": "sctl",
+    "length": 94,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "ENERGY SYNERGY MATRIX",
+    "artist": "Tanchiky",
+    "length": 123,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Punai Punai Genso ~Punai Punai in Wonderland~",
+    "artist": "Rish feat.Choko",
+    "length": 128,
+    "bpm_min": 271,
+    "bpm_max": 271,
+    "level_easy": 2,
+    "level_hard": 7,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Better Graphic Animation",
+    "artist": "LUZE",
+    "length": 119,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Variant Cross",
+    "artist": "M-UE",
+    "length": 119,
+    "bpm_min": 210,
+    "bpm_max": 210,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Ultra Happy Miracle Bazoooooka!!",
+    "artist": "Hino Isuka vs. Umeboshi Chazuke",
+    "length": 120,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

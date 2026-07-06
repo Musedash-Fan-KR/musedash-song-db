@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "tape/stop/night",
+    "artist": "Sugar & Co.",
+    "length": 136,
+    "bpm_min": 115,
+    "bpm_max": 115,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Pixel Galaxy",
+    "artist": "Snail's House",
+    "length": 141,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Notice",
+    "artist": "Moe Shop / TORIENA",
+    "length": 75,
+    "bpm_min": 125,
+    "bpm_max": 125,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "sᴛʀᴀᴡʙᴇʀʀʏ ɢᴏᴅᴢɪʟʟᴀ",
+    "artist": "Sugar & Co.",
+    "length": 137,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "OKIMOCHI EXPRESSION",
+    "artist": "DISCO BROTHERS",
+    "length": 120,
+    "bpm_min": 131,
+    "bpm_max": 131,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "君とpool disco",
+    "artist": "loopcoda",
+    "length": 96,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  }
+]

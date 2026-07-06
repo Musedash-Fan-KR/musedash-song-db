@@ -1,0 +1,112 @@
+[
+  {
+    "title_en": "Eve Avenir",
+    "artist": "BlackY feat. Risa Yuzuki",
+    "length": 133,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Silverstring",
+    "artist": "Sound Souler",
+    "length": 134,
+    "bpm_min": 172,
+    "bpm_max": 172,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Melusia",
+    "artist": "Se-U-Ra × seatrus",
+    "length": 124,
+    "bpm_min": 195,
+    "bpm_max": 195,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Devil's Castle",
+    "artist": "Mr.Asyu",
+    "length": 139,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Abatement",
+    "artist": "Mizku & SNKS",
+    "length": 128,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Azalea",
+    "artist": "Ryusei Trap Boys",
+    "length": 148,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 4,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Brightly World",
+    "artist": "uma vs. M-UE",
+    "length": 107,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "We'll meet in every world ★★★",
+    "artist": "Salad Savior",
+    "length": 128,
+    "bpm_min": 220,
+    "bpm_max": 220,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Collapsar",
+    "artist": "BlackY",
+    "length": 143,
+    "bpm_min": 188,
+    "bpm_max": 188,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Parousia",
+    "artist": "xi",
+    "length": 124,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  }
+]

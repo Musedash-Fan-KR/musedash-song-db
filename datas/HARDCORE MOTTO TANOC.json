@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Fantasista LAST END",
+    "artist": "DJ Genki",
+    "length": 132,
+    "bpm_min": 254,
+    "bpm_max": 254,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": 12
+  },
+  {
+    "title_en": "Colorful Universe",
+    "artist": "Laur",
+    "length": 130,
+    "bpm_min": 162,
+    "bpm_max": 162,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Future Flux",
+    "artist": "Srav3R",
+    "length": 130,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "SOMEONE STOP ME!!!",
+    "artist": "t+pazolite",
+    "length": 144,
+    "bpm_min": 220,
+    "bpm_max": 220,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Azathoth",
+    "artist": "USAO & Yuta Imai",
+    "length": 145,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Change the Game feat. Iori Matsunaga",
+    "artist": "REDALiCE & USAO",
+    "length": 129,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  }
+]

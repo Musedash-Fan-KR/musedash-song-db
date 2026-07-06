@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Tokimeki★Meteostrike",
+    "artist": "TRIFLATS",
+    "length": 90,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Down Low",
+    "artist": "James Landino (ft. Raj Ramayya)",
+    "length": 133,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "LOUDER MACHINE",
+    "artist": "NOMA",
+    "length": 117,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "それはもうらぶちゅ",
+    "artist": "タケノコ少年 feat. 周央サンゴ（にじさんじ）",
+    "length": 119,
+    "bpm_min": 191,
+    "bpm_max": 191,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Rave_Tech",
+    "artist": "3R2",
+    "length": 127,
+    "bpm_min": 150,
+    "bpm_max": 150,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Brilliant & Shining! (Game Edit.)",
+    "artist": "Halv",
+    "length": 125,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  }
+]

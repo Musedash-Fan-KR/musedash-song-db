@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "MuseDashヵヽﾞ何ヵヽ干∋ッ`⊂ぉヵヽＵ＜ﾅょッﾅﾆ気ヵヽﾞ￡ゑょ",
+    "artist": "Rish",
+    "length": 130,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": null,
+    "level_hard": null,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Aleph-0",
+    "artist": "LeaF",
+    "length": 132,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "ぶっとばスーパーノヴァ",
+    "artist": "ななひら&ころねぽち",
+    "length": 158,
+    "bpm_min": 228,
+    "bpm_max": 228,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": 11
+  },
+  {
+    "title_en": "Rush-Hour",
+    "artist": "litmus*",
+    "length": 121,
+    "bpm_min": 224,
+    "bpm_max": 224,
+    "level_easy": null,
+    "level_hard": null,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title_en": "3rd Avenue",
+    "artist": "Sound Souler",
+    "length": 150,
+    "bpm_min": 90,
+    "bpm_max": 90,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title_en": "WORLDINVADER",
+    "artist": "EBIMAYO",
+    "length": 135,
+    "bpm_min": 165,
+    "bpm_max": 165,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 11
+  }
+]

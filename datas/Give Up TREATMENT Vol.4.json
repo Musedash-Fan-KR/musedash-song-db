@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Destr0yer",
+    "artist": "Sakuzyo feat.Nikki Simmons",
+    "length": 176,
+    "bpm_min": 90,
+    "bpm_max": 90,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Noël",
+    "artist": "Morimori Atsushi vs. uma",
+    "length": 136,
+    "bpm_min": 220,
+    "bpm_max": 220,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Kyoukiranbu",
+    "artist": "LeaF",
+    "length": 151,
+    "bpm_min": 230,
+    "bpm_max": 230,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Two Phace",
+    "artist": "litmus* vs Sound Souler",
+    "length": 140,
+    "bpm_min": 158,
+    "bpm_max": 158,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Fly Again",
+    "artist": "HyuN & Ritoru",
+    "length": 156,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "ouroVoros",
+    "artist": "Negentropy",
+    "length": 135,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

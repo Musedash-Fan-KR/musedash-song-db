@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "The NightScape",
+    "artist": "litmus*",
+    "length": 124,
+    "bpm_min": 130,
+    "bpm_max": 130,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "FREEDOM DiVE↓",
+    "artist": "xi",
+    "length": 136,
+    "bpm_min": 222.22,
+    "bpm_max": 222.22,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": 12
+  },
+  {
+    "title_en": "Φ",
+    "artist": "Street",
+    "length": 123,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Lueur de la nuit",
+    "artist": "AAAA + ck",
+    "length": 137,
+    "bpm_min": 220,
+    "bpm_max": 220,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Creamy Sugary OVERDRIVE!!!",
+    "artist": "BTB",
+    "length": 120,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Disorder (feat.YURI)",
+    "artist": "HyuN",
+    "length": 129,
+    "bpm_min": 193,
+    "bpm_max": 193,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]
