@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Groove Prayer",
+    "artist": "COSIO(ZUNTATA) feat.ChouCho",
+    "length": 102,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "FUJIN Rumble",
+    "artist": "COSIO(ZUNTATA)",
+    "length": 114,
+    "bpm_min": 192,
+    "bpm_max": 192,
+    "level_easy": 7,
+    "level_hard": 10,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title": "Marry me, Nightmare",
+    "artist": "t+pazolite",
+    "length": 114,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 8,
+    "level_hard": 11,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "HG魔改造ポリビニル少年",
+    "artist": "IOSYS TRAX (D.watt with さきぴょ)",
+    "length": 110,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 7,
+    "level_hard": 9,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title": "聖者の息吹",
+    "artist": "世阿弥 vs Tatsh",
+    "length": 121,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 8,
+    "level_hard": 10,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title": "ouroboros -twin stroke of the end-",
+    "artist": "Cranky VS MASAKI",
+    "length": 146,
+    "bpm_min": 188,
+    "bpm_max": 188,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": 12,
+    "level_supreme": null
+  }
+]

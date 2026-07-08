@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Glimmer",
+    "artist": "kors k (feat. 祈Inory/Qí Inory)",
+    "length": 94,
+    "bpm_min": 146,
+    "bpm_max": 146,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title": "EXIST",
+    "artist": "G.K & Haloweak (feat. 米雅/Mǐ yǎ)",
+    "length": 134,
+    "bpm_min": 165,
+    "bpm_max": 165,
+    "level_easy": 3,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title": "Irreplaceable (Chinese Version)",
+    "artist": "Haloweak (feat. 夏铜子*/Xià tóngzǐ*)",
+    "length": 87,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title": "Irreplaceable (English Version)",
+    "artist": "Haloweak (feat. AKINO & bless4)",
+    "length": 87,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  }
+]
