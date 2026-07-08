@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Future Dive",
+    "artist": "Cosmograph",
+    "length": 109,
+    "bpm_min": 181,
+    "bpm_max": 181,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Re：End of a Dream",
+    "artist": "uma vs. Morimori Atsushi",
+    "length": 139,
+    "bpm_min": 212,
+    "bpm_max": 212,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Etude -Storm-",
+    "artist": "Polymath9",
+    "length": 119,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 6,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Unlimited Katharsis",
+    "artist": "Reku Mochizuki",
+    "length": 127,
+    "bpm_min": 185,
+    "bpm_max": 185,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Magic Knight Girl",
+    "artist": "Nizikawa",
+    "length": 121,
+    "bpm_min": 172,
+    "bpm_max": 172,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Eeliaas",
+    "artist": "Mitsuki",
+    "length": 117,
+    "bpm_min": 180,
+    "bpm_max": 180,
+    "level_easy": 6,
+    "level_hard": 9,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]

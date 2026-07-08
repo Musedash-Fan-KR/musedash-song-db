@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "Gaikan Chrysalis",
+    "artist": "Team Grimoire feat.Sennzai",
+    "length": 169,
+    "bpm_min": 160,
+    "bpm_max": 160,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Sterelogue",
+    "artist": "VeetaCrush",
+    "length": 136,
+    "bpm_min": 202,
+    "bpm_max": 202,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Cheshire's Dance",
+    "artist": "a_hisa",
+    "length": 126,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Skrik",
+    "artist": "Chicala Lpis",
+    "length": 115,
+    "bpm_min": 200,
+    "bpm_max": 200,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 11,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Soda Pop Canva5!",
+    "artist": "Morimori Atsushi vs. XIzE",
+    "length": 135,
+    "bpm_min": 190,
+    "bpm_max": 190,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 10,
+    "level_supreme": null
+  },
+  {
+    "title_en": "ЯUBY:LINTe",
+    "artist": "orangentle",
+    "length": 135,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 5,
+    "level_hard": 8,
+    "level_master": 11,
+    "level_supreme": null
+  }
+]
