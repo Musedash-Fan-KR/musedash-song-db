@@ -1,0 +1,68 @@
+[
+  {
+    "title_en": "SWEETSWEETSWEET",
+    "artist": "Sugar & Co.（ANK feat.kumako）",
+    "length": 139,
+    "bpm_min": 131,
+    "bpm_max": 131,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "深蓝与夜的呼吸",
+    "artist": "Sugar & Co.（ANK feat.kumako）",
+    "length": 152,
+    "bpm_min": 155,
+    "bpm_max": 155,
+    "level_easy": 2,
+    "level_hard": 4,
+    "level_master": 6,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Joy Connection",
+    "artist": "MusikM / Jun Kuroda",
+    "length": 125,
+    "bpm_min": 140,
+    "bpm_max": 140,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Self Willed Girl Ver.B",
+    "artist": "小野道ono (feat. Hatsune Miku)",
+    "length": 154,
+    "bpm_min": 174,
+    "bpm_max": 174,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "就是不听话",
+    "artist": "iKz feat.Hanser",
+    "length": 150,
+    "bpm_min": 175,
+    "bpm_max": 175,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Holy Shit Grass Snake",
+    "artist": "麦当叔劳劳 (feat. Hatsune Miku)",
+    "length": 129,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  }
+]
