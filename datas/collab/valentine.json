@@ -1,0 +1,24 @@
+[
+  {
+    "title_en": "Sweet Dream(VIVINOS - 'Alien Stage OST Part.2')",
+    "artist": "STUDIO LICO",
+    "length": 100,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 1,
+    "level_hard": 4,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Ruler Of My Heart(VIVINOS - 'Alien Stage Pt5')",
+    "artist": "STUDIO LICO",
+    "length": 144,
+    "bpm_min": 120,
+    "bpm_max": 120,
+    "level_easy": 2,
+    "level_hard": 4,
+    "level_master": 6,
+    "level_supreme": null
+  }
+]

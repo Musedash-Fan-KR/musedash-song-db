@@ -1,0 +1,112 @@
+[
+  {
+    "title_en": "Stra Stella",
+    "artist": "MINTROCKET",
+    "length": 120,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 1,
+    "level_hard": 4,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Echo over you...",
+    "artist": "Apo11o program",
+    "length": 151,
+    "bpm_min": 194,
+    "bpm_max": 194,
+    "level_easy": 1,
+    "level_hard": 4,
+    "level_master": null,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Dohna Dohna no Uta",
+    "artist": "L-Minatsu feat.Tsukino",
+    "length": 96,
+    "bpm_min": 152,
+    "bpm_max": 152,
+    "level_easy": 2,
+    "level_hard": 4,
+    "level_master": 6,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Koi no Moonlight",
+    "artist": "REDALiCE feat. Tamaki Inuyama",
+    "length": 143,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 8,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Galaxy Striker",
+    "artist": "M2U",
+    "length": 90,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 4,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "新世界より",
+    "artist": "綾奈なな (Prod.Aya2g+Works)",
+    "length": 129,
+    "bpm_min": 128,
+    "bpm_max": 128,
+    "level_easy": 2,
+    "level_hard": 5,
+    "level_master": 7,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Say! Fanfare!",
+    "artist": "Fubuki Shirakami",
+    "length": 129,
+    "bpm_min": 170,
+    "bpm_max": 170,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Shenri Kuaira -repeat-",
+    "artist": "bermei.inazawa",
+    "length": 142,
+    "bpm_min": 132,
+    "bpm_max": 132,
+    "level_easy": 5,
+    "level_hard": 7,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "INTERNET OVERDOSE（Aiobahn feat. KOTOKO）",
+    "artist": "\"NEEDY STREAMER OVERLOAD\" theme song",
+    "length": 116,
+    "bpm_min": null,
+    "bpm_max": null,
+    "level_easy": 3,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  },
+  {
+    "title_en": "Mezame Eurythmics",
+    "artist": "bermei.inazawa",
+    "length": 147,
+    "bpm_min": 117,
+    "bpm_max": 117,
+    "level_easy": 4,
+    "level_hard": 6,
+    "level_master": 9,
+    "level_supreme": null
+  }
+]
